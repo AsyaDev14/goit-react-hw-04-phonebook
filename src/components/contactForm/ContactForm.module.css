@@ -1,0 +1,12 @@
+.input {
+  width: 200px;
+  margin: 0 auto;
+  display: flex;
+  margin-top: 20px;
+}
+
+.button_contact {
+  margin: 0 auto;
+  display: flex;
+  margin-top: 15px;
+}
